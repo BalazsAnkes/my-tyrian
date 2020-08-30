@@ -1,0 +1,10 @@
+{
+  "env": {
+    "es6": true
+  },
+  "parser": "babel-eslint",
+  "rules": {
+    "no-console": "error",
+    "max-len": 120
+  }
+}
