@@ -1,4 +1,4 @@
-export const movement = (value) => {
+export const keyboardHandler = (value) => {
   let key = {};
   key.value = value;
   key.isDown = false;
